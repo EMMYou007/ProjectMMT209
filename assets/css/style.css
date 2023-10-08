@@ -122,7 +122,7 @@ h6 {
 }
 
 #header .profile .social-links a:hover {
-  background: #dd14dd;
+  background: #dd1478;
   color: #fff;
   text-decoration: none;
 }
@@ -215,7 +215,7 @@ h6 {
   font-size: 24px;
   transition: all 0.4s;
   outline: none !important;
-  background-color: #dd146e;
+  background-color: #f04e8a;
   color: #fff;
   width: 40px;
   height: 40px;
@@ -241,13 +241,14 @@ h6 {
 #hero {
   width: 100%;
   height: 100vh;
-  background: url("https://scontent.fkkc1-1.fna.fbcdn.net/v/t39.30808-6/330258498_1336968590180934_8216854842533090155_n.jpg?_nc_cat=103&ccb=1-7&_nc_sid=813123&_nc_eui2=AeGPALee5ZraCabcr--Ew3OIuOKwq0yuKFm44rCrTK4oWTdsm5zQ0WJZ71bda8w6ilzwG5WGpqCZ5r30IoC3viiV&_nc_ohc=G5t0SNM0bN4AX8LF8pN&_nc_ht=scontent.fkkc1-1.fna&oh=00_AfAOum2h6eopWaxFuba9vifHsAU8qN4DYaMW6eft0GMdqw&oe=6527DE8A") top center;
+  background: url("https://scontent.fkkc1-1.fna.fbcdn.net/v/t39.30808-6/386781084_1756137218180720_4221604151915910385_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=49d041&_nc_eui2=AeFoV0Od8MZoT3-Sm9dmWaLRgPL37QrtucKA8vftCu25wrTWBfw9xKqLVCf78PskGTUdIDVonwP0F_SpWwwRnumk&_nc_ohc=m63Zwko-iPcAX_3oK10&_nc_ht=scontent.fkkc1-1.fna&oh=00_AfC_USehHhif5SDrIbhVL8XcgMixehDQ209Dpoa4YALxIQ&oe=65280E41") top center;
   background-size: cover;
+
 }
 
 #hero:before {
   content: "";
-  background: rgba(5, 13, 24, 0.3);
+  background: rgba(71, 45, 97, 0.3);
   position: absolute;
   bottom: 0;
   top: 0;
@@ -334,7 +335,7 @@ section {
   display: block;
   width: 50px;
   height: 3px;
-  background: #149ddd;
+  background: #b3a5ff;
   bottom: 0;
   left: 0;
 }
@@ -370,7 +371,7 @@ section {
 .about .content ul i {
   font-size: 16px;
   margin-right: 5px;
-  color: #149ddd;
+  color: #75aef0;
   line-height: 0;
 }
 
@@ -463,7 +464,7 @@ section {
   width: 1px;
   height: 10px;
   transition: 0.9s;
-  background-color: #149ddd;
+  background-color: #f365a7;
 }
 
 /*--------------------------------------------------------------
@@ -931,7 +932,7 @@ section {
 
 .contact .php-email-form .validate {
   display: none;
-  color: red;
+  color: rgb(255, 137, 173);
   margin: 0 0 15px 0;
   font-weight: 400;
   font-size: 13px;
@@ -940,7 +941,7 @@ section {
 .contact .php-email-form .error-message {
   display: none;
   color: #fff;
-  background: #ed3c0d;
+  background: #ff84ab;
   text-align: left;
   padding: 15px;
   font-weight: 600;
@@ -1075,7 +1076,7 @@ section {
 # Footer
 --------------------------------------------------------------*/
 #footer {
-  padding: 15px;
+  padding: 10px;
   color: #f4f6fd;
   font-size: 14px;
   position: fixed;
